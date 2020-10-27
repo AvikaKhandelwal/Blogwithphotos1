@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: coral;
+}
+
+Img {
+    width: 500px;
+    height: 450px;
+}
+
+#heading {
+    font-family: cursive;
+    color: blue;
+    font-size: 50px;
+}
+
+#date {
+    font-family: monospace;
+    color: darkmagenta;
+    font-size: 30px;
+}
